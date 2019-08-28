@@ -1,0 +1,6 @@
+#!C:\Users\rik.van.ittersum\PycharmProjects\tekst\venv\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+
